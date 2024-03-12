@@ -1,8 +1,8 @@
 # shopping-cart-mongodb
 
-## The files/code for the react shopping cart app that contains a backend and utilizes a locally hosted MongoDB database  
+### The files/code for the react shopping cart app that contains a backend and utilizes a locally hosted MongoDB database  
 
-## database: MongoDB
+### database: MongoDB
 
 ### database name: store-database
 
